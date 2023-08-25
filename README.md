@@ -1,1 +1,1 @@
-This project consist of campground stations you regester login and also you can add your own campground
+This project is called YelpCamp , designed by tinega chris ,who is currently a developer in Web Applications.This project consist of camping grounds places. You can create account with YelpCamp and then login view camping stations . once logged in you can create your own anew camping station and it will be added onto main list.You can also leave a review on your experience with YelpCamp project 
